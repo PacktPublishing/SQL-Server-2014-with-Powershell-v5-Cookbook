@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # SQL Server 2012 with PowerShell V3 Cookbook
 
 <a href="https://www.packtpub.com/networking-and-servers/sql-server-2012-powershell-v3-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781849686464 "><img src="https://d1ldz4te4covpm.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/6464EN_Microsoft%20SQL%20Server%202012%20with%20Powershell%203.0%20Cookbook_cov.jpg" alt="SQL Server 2012 with PowerShell V3 Cookbook" height="256px" align="right"></a>
